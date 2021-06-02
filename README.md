@@ -1,3 +1,5 @@
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=toscanocombr&repo=toscanocombr&countColorcountColor)
+
 ### Hi there 👋
 
 <!--
