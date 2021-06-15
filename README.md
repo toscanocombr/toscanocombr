@@ -2,7 +2,7 @@ Hey there!
 
 Checkout my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
 
-I'm iOS Developer, I started as web developer in 1998 and worked mainly with PHP until 2019, since then I started new career in mobile development with Swift for iOS.
+I'm Marcelo Toscano, I started as web developer in 1998 and worked mainly with PHP until 2019, since then I started new career in mobile development with Swift for iOS.
 
 Currently working @ [BRQ Digital](http://brq.com) on the [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
 
