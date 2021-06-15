@@ -6,7 +6,7 @@ I'm iOS Developer, I started as web developer in 1998 and worked mainly with PHP
 
 Currently working @ [BRQ Digital](http://brq.com) on the [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
 
-Apps I've also worked on 🔧👨🏽‍💻
+Apps I've also worked on 👨🏽‍💻
 
 <img src="meutim.png" alt="Meu TIM" width="15"/> [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218)
 
