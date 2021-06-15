@@ -1,8 +1,13 @@
 Hey there!
 
-Visite meu [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
+Checkout my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
 
-Adoro fotos de setup, então ai vai o meu e o que eu uso no meu dia a dia no desenvolvimento para iOS:
+I'm iOS Developer, I started as web developer in 1998 and worked mainly with PHP until 2019, since then I started new career in mobile development with Swift for iOS.
+
+Currently working @ [BRQ Digital](http://brq.com) on the [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
+
+Setup:
+
 - Macbook Pro 2019 Quad Core i5 8GB 256GB NVMe
 - Dell P2719H 27 inches display 
 - Vivo Fibra 300Mb   
