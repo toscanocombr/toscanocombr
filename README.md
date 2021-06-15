@@ -1,4 +1,4 @@
-Hey there!
+Hey there 🇧🇷 ! 
 
 Checkout my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
 
