@@ -8,7 +8,7 @@ Currently working @ [BRQ Digital](http://brq.com) on the [Meu TIM](https://apps.
 
 Apps I've also worked on 🔧👨🏽‍💻
 
-<img src="meutim.png" alt="Meu TIM" width="20"/>[Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218)
+<img src="meutim.png" alt="Meu TIM" width="20"/>. [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218)
 
 Setup:
 
