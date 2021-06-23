@@ -1,14 +1,10 @@
 Hey there 🇧🇷 ! 
 
-Checkout my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
+My name is Marcelo Toscano from 🇧🇷, I started as web developer in 1998 and worked mainly with PHP until 2019, since then I started new career in mobile development with Swift for iOS.
 
-I'm Marcelo Toscano, I started as web developer in 1998 and worked mainly with PHP until 2019, since then I started new career in mobile development with Swift for iOS.
+Currently working @ [BRQ Digital](http://brq.com) on the <img src="meutim.png" alt="Meu TIM" width="15"/>[Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
 
-Currently working @ [BRQ Digital](http://brq.com) on the [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
-
-Apps I've also worked on 👨🏽‍💻
-
-<img src="meutim.png" alt="Meu TIM" width="15"/> [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218)
+You can find at my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
 
 Setup:
 
