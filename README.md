@@ -17,5 +17,8 @@ Setup:
 
 ![](setup.png)
 
+Hire me!
+(marcelo@toscano.com.br)
+
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=toscanocombr)]()
