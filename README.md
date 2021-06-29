@@ -18,7 +18,8 @@ Setup:
 ![](setup.png)
 
 Hire me!
-(marcelo@toscano.com.br)
+[LinkedIn]https://www.linkedin.com/in/toscanocombr/
+Mailme: (marcelo@toscano.com.br)
 
 ### GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=toscanocombr)]()
