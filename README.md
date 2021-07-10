@@ -6,8 +6,6 @@ Places and apps I've worked on:
 
 [BRQ Digital](http://brq.com) on the <img src="meutim.png" alt="Meu TIM" width="15"/> [Meu TIM](https://apps.apple.com/us/app/%CE%BCeu-tim/id668591218) app.
 
-You can find at my social stuff [Instagram](http://instagram.com/toscanocombr) e [Twitter](http://twitter.com/toscanocombr) 
-
 Setup:
 
 - Macbook Pro 2019 Quad Core i5 8GB 256GB NVMe
