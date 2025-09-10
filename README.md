@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 📱 My Apps on the App Store
+
+- [**Super Raffle**](https://apps.apple.com/us/app/super-raffle/id6746660488)  
+  Modern raffle app with carousel animations, SQLite persistence, and multi-language support.
+
+- [**Controlist**](https://apps.apple.com/us/app/controlist/id6746421769)  
+  The perfect app to organize your daily lists. Simple, fast, and made for you!
 <!--
 **toscanocombr/toscanocombr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
