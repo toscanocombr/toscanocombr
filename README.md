@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcelo Toscano Rodrigues  
+# 👋 Olá, eu sou Marcelo Toscano
 
 Sou **Desenvolvedor iOS** com mais de 25 anos de experiência em tecnologia. Minha jornada começou no início dos anos 2000, trabalhando com servidores Linux, PHP, Apache e MySQL. Com o tempo, evoluí para Nginx e frameworks mais modernos, até que em 2020 decidi mergulhar de vez no desenvolvimento mobile, focando em aplicativos nativos para iPhone e iPad. Desde então, venho unindo experiência corporativa em grandes empresas com a liberdade criativa de atuar como indie developer sob a marca **iOS Jumpstart**.  
 
